@@ -2,7 +2,7 @@
 
 About me:
 - Studying Computer Engineering at the University of Waterloo, graduating April 2025.
-- Find my projects here: [Projects](https://github.com/atharva-b/projects)
+- Find my projects [here](https://github.com/atharva-b/projects)
 - Seeking Winter '24 Co-op!
 
 <!--
