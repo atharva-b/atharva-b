@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Atharva 👋
+
+About me:
+- Studying Computer Engineering at the University of Waterloo, graduating April 2025.
+- Find my projects here: [Projects](https://github.com/atharva-b/projects)
+- Seeking Winter '24 Co-op!
 
 <!--
 **atharva-b/atharva-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
